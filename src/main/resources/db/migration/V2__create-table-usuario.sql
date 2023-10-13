@@ -6,4 +6,5 @@ create table usuarios(
 
                          primary key(id)
 
+
 );
